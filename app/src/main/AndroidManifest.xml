@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.drawerfragment.cuadra.drawer_fragment">
+=======
+    package="com.fragments.drawer.cuadra.drawer_fragments">
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
 
     <application
         android:allowBackup="true"
@@ -9,7 +13,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".MainActivity">
+=======
+        <activity android:name=".MyActivity">
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

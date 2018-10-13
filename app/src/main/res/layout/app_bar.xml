@@ -4,7 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".MainActivity">
+=======
+    tools:context=".MyActivity">
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -20,6 +24,10 @@
 
     </android.support.design.widget.AppBarLayout>
 
+<<<<<<< HEAD
     <include layout="@layout/content_main" />
+=======
+    <include layout="@layout/container" />
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
 
 </android.support.design.widget.CoordinatorLayout>

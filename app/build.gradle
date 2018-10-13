@@ -3,7 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.drawerfragment.cuadra.drawer_fragment"
+=======
+        applicationId "com.fragments.drawer.cuadra.drawer_fragments"
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1

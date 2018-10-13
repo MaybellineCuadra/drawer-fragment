@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
 xmlns:app="http://schemas.android.com/apk/res-auto">
 <item
     android:id="@+id/action_settings"
@@ -7,3 +8,12 @@ xmlns:app="http://schemas.android.com/apk/res-auto">
     android:title="@string/action_settings"
     app:showAsAction="never" />
 </menu>
+=======
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8

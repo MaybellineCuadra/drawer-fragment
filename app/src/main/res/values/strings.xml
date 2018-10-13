@@ -6,5 +6,9 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="appbar_scrolling_view_behavior">0</string>
+=======
+    <string name="appbar_scrolling_view_behavior">1</string>
+>>>>>>> cf8ec8c370f47b46c2364a8e5ac3624a08c487c8
 </resources>
